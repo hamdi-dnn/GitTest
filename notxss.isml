@@ -1,0 +1,7 @@
+<isprint
+   value    = output
+   style    = style_ID
+   timezone = "SITE"
+   padding  = padding_constant
+   encoding = "on"
+/>
